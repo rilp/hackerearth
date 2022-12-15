@@ -1,4 +1,6 @@
 # My Hackerearth Solutions
 
-[HackerEarth homepage](https://www.hackerearth.com/practice/)
+Problem's list:
+
+* [Zoos](https://www.hackerearth.com/problem/algorithm/is-zoo-f6f309e7/)
 
