@@ -4,6 +4,7 @@ Problem's list:
 
 * [Ali and Helping innocent people](https://www.hackerearth.com/problem/algorithm/cartag-948c2b02/)
 * [Count Divisors](https://www.hackerearth.com/problem/algorithm/count-divisors/)
+* [Employee rating](https://www.hackerearth.com/problem/algorithm/employee-rating-8cd8dc10/)
 * [Factorial!](https://www.hackerearth.com/problem/algorithm/find-factorial/)
 * [Maximum borders](https://www.hackerearth.com/problem/algorithm/maximum-border-9767e14c/)
 * [Non-empty subsets](https://www.hackerearth.com/problem/algorithm/minor-4-41918cb8/)
