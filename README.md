@@ -16,4 +16,5 @@ Problem's list:
 * [Rest in peace - 21-1!](https://www.hackerearth.com/problem/algorithm/rest-in-peace-21-1/)
 * [Roy's Life Cycle](https://www.hackerearth.com/problem/algorithm/roys-life-cycle/)
 * [Speed](https://www.hackerearth.com/problem/algorithm/speed-7/)
+* [Terrible Chandu](https://www.hackerearth.com/problem/algorithm/terrible-chandu/)
 * [Zoos](https://www.hackerearth.com/problem/algorithm/is-zoo-f6f309e7/)
