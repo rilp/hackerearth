@@ -15,4 +15,5 @@ Problem's list:
 * [Selection of Cities](https://www.hackerearth.com/problem/algorithm/selection-of-cities-2/)
 * [Rest in peace - 21-1!](https://www.hackerearth.com/problem/algorithm/rest-in-peace-21-1/)
 * [Roy's Life Cycle](https://www.hackerearth.com/problem/algorithm/roys-life-cycle/)
+* [Speed](https://www.hackerearth.com/problem/algorithm/speed-7/)
 * [Zoos](https://www.hackerearth.com/problem/algorithm/is-zoo-f6f309e7/)
