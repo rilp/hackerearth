@@ -15,6 +15,7 @@ Problem's list:
 * [Palindromic String](https://www.hackerearth.com/problem/algorithm/palindrome-check-2/)
 * [Selection of Cities](https://www.hackerearth.com/problem/algorithm/selection-of-cities-2/)
 * [Remove Duplicates](https://www.hackerearth.com/problem/algorithm/remove-duplicates-3/)
+* [Replace the strings](https://www.hackerearth.com/problem/algorithm/make-them-equal-ac0bab4a/)
 * [Rest in peace - 21-1!](https://www.hackerearth.com/problem/algorithm/rest-in-peace-21-1/)
 * [Roy's Life Cycle](https://www.hackerearth.com/problem/algorithm/roys-life-cycle/)
 * [Roy and Profile Picture](https://www.hackerearth.com/problem/algorithm/roy-and-profile-picture/)
