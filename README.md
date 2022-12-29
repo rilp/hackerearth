@@ -10,6 +10,7 @@ Problem's list:
 * [Employee rating](https://www.hackerearth.com/problem/algorithm/employee-rating-8cd8dc10/)
 * [Factorial!](https://www.hackerearth.com/problem/algorithm/find-factorial/)
 * [Largest Balanced String](https://www.hackerearth.com/problem/algorithm/largest-balanced-string-bf93ce85/)
+* [Letter most](https://www.hackerearth.com/problem/algorithm/letter-most-fb72d803/)
 * [Life, the Universe, and Everything](https://www.hackerearth.com/problem/algorithm/life-the-universe-and-everything/)
 * [Maximum borders](https://www.hackerearth.com/problem/algorithm/maximum-border-9767e14c/)
 * [Non-empty subsets](https://www.hackerearth.com/problem/algorithm/minor-4-41918cb8/)
