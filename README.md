@@ -14,6 +14,7 @@ Problem's list:
 * [Letter most](https://www.hackerearth.com/problem/algorithm/letter-most-fb72d803/)
 * [Life, the Universe, and Everything](https://www.hackerearth.com/problem/algorithm/life-the-universe-and-everything/)
 * [Maximum borders](https://www.hackerearth.com/problem/algorithm/maximum-border-9767e14c/)
+* [Maximum Sum](https://www.hackerearth.com/problem/algorithm/maximum-sum-4-f8d12458/)
 * [Non-empty subsets](https://www.hackerearth.com/problem/algorithm/minor-4-41918cb8/)
 * [Palindromic String](https://www.hackerearth.com/problem/algorithm/palindrome-check-2/)
 * [Selection of Cities](https://www.hackerearth.com/problem/algorithm/selection-of-cities-2/)
