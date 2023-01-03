@@ -12,6 +12,7 @@ Problem's list:
 * [Factorial!](https://www.hackerearth.com/problem/algorithm/find-factorial/)
 * [Largest Balanced String](https://www.hackerearth.com/problem/algorithm/largest-balanced-string-bf93ce85/)
 * [Letter most](https://www.hackerearth.com/problem/algorithm/letter-most-fb72d803/)
+* [Lexical Analyzer](https://www.hackerearth.com/problem/algorithm/lexical-analyzer-3/)
 * [Life, the Universe, and Everything](https://www.hackerearth.com/problem/algorithm/life-the-universe-and-everything/)
 * [Maximum borders](https://www.hackerearth.com/problem/algorithm/maximum-border-9767e14c/)
 * [Maximum Sum](https://www.hackerearth.com/problem/algorithm/maximum-sum-4-f8d12458/)
