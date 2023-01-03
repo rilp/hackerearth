@@ -27,4 +27,5 @@ Problem's list:
 * [Speed](https://www.hackerearth.com/problem/algorithm/speed-7/)
 * [Sorted String](https://www.hackerearth.com/problem/algorithm/sorted-string/)
 * [Terrible Chandu](https://www.hackerearth.com/problem/algorithm/terrible-chandu/)
+* [UpUp](https://www.hackerearth.com/problem/algorithm/upup/)
 * [Zoos](https://www.hackerearth.com/problem/algorithm/is-zoo-f6f309e7/)
