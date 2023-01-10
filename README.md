@@ -12,6 +12,7 @@ Problem's list:
 * [Employee rating](https://www.hackerearth.com/problem/algorithm/employee-rating-8cd8dc10/)
 * [Excursion](https://www.hackerearth.com/problem/algorithm/excursion-2d080f3a/)
 * [Factorial!](https://www.hackerearth.com/problem/algorithm/find-factorial/)
+* [Finding Vaccines](https://www.hackerearth.com/problem/algorithm/find-the-vaccine-a60e06ee/)
 * [Largest Balanced String](https://www.hackerearth.com/problem/algorithm/largest-balanced-string-bf93ce85/)
 * [Letter most](https://www.hackerearth.com/problem/algorithm/letter-most-fb72d803/)
 * [Lexical Analyzer](https://www.hackerearth.com/problem/algorithm/lexical-analyzer-3/)
