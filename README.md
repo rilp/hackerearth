@@ -10,6 +10,7 @@ Problem's list:
 * [Count Divisors](https://www.hackerearth.com/problem/algorithm/count-divisors/)
 * [Divisibility](https://www.hackerearth.com/problem/algorithm/divisible-or-not-81b86ad7/)
 * [Employee rating](https://www.hackerearth.com/problem/algorithm/employee-rating-8cd8dc10/)
+* [Excursion](https://www.hackerearth.com/problem/algorithm/excursion-2d080f3a/)
 * [Factorial!](https://www.hackerearth.com/problem/algorithm/find-factorial/)
 * [Largest Balanced String](https://www.hackerearth.com/problem/algorithm/largest-balanced-string-bf93ce85/)
 * [Letter most](https://www.hackerearth.com/problem/algorithm/letter-most-fb72d803/)
