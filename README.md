@@ -2,6 +2,7 @@
 
 Problem's list:
 
+* [A Special Number](https://www.hackerearth.com/problem/algorithm/special-number-9-a0cda359/)
 * [Ali and Helping innocent people](https://www.hackerearth.com/problem/algorithm/cartag-948c2b02/)
 * [Alice and Strings](https://www.hackerearth.com/problem/algorithm/aliceandstrings-9da62aa7/)
 * [Binary Swap](https://www.hackerearth.com/problem/algorithm/binary-swap-b91d9bef/)
