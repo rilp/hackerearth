@@ -17,6 +17,7 @@ Problem's list:
 * [Letter most](https://www.hackerearth.com/problem/algorithm/letter-most-fb72d803/)
 * [Lexical Analyzer](https://www.hackerearth.com/problem/algorithm/lexical-analyzer-3/)
 * [Life, the Universe, and Everything](https://www.hackerearth.com/problem/algorithm/life-the-universe-and-everything/)
+* [Little Jhool and psychic powers](https://www.hackerearth.com/problem/algorithm/psychic-powers/)
 * [Maximum borders](https://www.hackerearth.com/problem/algorithm/maximum-border-9767e14c/)
 * [Maximum Sum](https://www.hackerearth.com/problem/algorithm/maximum-sum-4-f8d12458/)
 * [Non-empty subsets](https://www.hackerearth.com/problem/algorithm/minor-4-41918cb8/)
