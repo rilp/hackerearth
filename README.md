@@ -22,6 +22,7 @@ Problem's list:
 * [Maximum borders](https://www.hackerearth.com/problem/algorithm/maximum-border-9767e14c/)
 * [Maximum Sum](https://www.hackerearth.com/problem/algorithm/maximum-sum-4-f8d12458/)
 * [Non-empty subsets](https://www.hackerearth.com/problem/algorithm/minor-4-41918cb8/)
+* [Palindromic Numbers](https://www.hackerearth.com/problem/algorithm/palindromic-numbers-7/)
 * [Palindromic String](https://www.hackerearth.com/problem/algorithm/palindrome-check-2/)
 * [Selection of Cities](https://www.hackerearth.com/problem/algorithm/selection-of-cities-2/)
 * [Remove Duplicates](https://www.hackerearth.com/problem/algorithm/remove-duplicates-3/)
