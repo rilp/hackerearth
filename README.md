@@ -25,6 +25,7 @@ Problem's list:
 * [Palindromic Cipher](https://www.hackerearth.com/problem/algorithm/palindromic-ciphers/)
 * [Palindromic Numbers](https://www.hackerearth.com/problem/algorithm/palindromic-numbers-7/)
 * [Palindromic String](https://www.hackerearth.com/problem/algorithm/palindrome-check-2/)
+* [Rahul's Logo](https://www.hackerearth.com/problem/algorithm/rahuls-logo/)
 * [Remove Duplicates](https://www.hackerearth.com/problem/algorithm/remove-duplicates-3/)
 * [Replace the strings](https://www.hackerearth.com/problem/algorithm/make-them-equal-ac0bab4a/)
 * [Rest in peace - 21-1!](https://www.hackerearth.com/problem/algorithm/rest-in-peace-21-1/)
