@@ -37,5 +37,6 @@ Problem's list:
 * [Speed](https://www.hackerearth.com/problem/algorithm/speed-7/)
 * [Terrible Chandu](https://www.hackerearth.com/problem/algorithm/terrible-chandu/)
 * [The best Internet Browser](https://www.hackerearth.com/problem/algorithm/the-best-internet-browser-3/)
+* [Toggle String](https://www.hackerearth.com/problem/algorithm/modify-the-string/)
 * [UpUp](https://www.hackerearth.com/problem/algorithm/upup/)
 * [Zoos](https://www.hackerearth.com/problem/algorithm/is-zoo-f6f309e7/)
